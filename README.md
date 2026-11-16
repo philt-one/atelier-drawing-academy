@@ -1,16 +1,20 @@
-# Atelier Drawing Academy — website draft
+# Atelier Drawing Academy — Pastel Collage Redesign
 
-Static site, ready to host after completing legal/privacy/support information.
+This package contains a more experimental redesign for the Atelier website.
 
-## Hosting option: GitHub Pages
-1. Create a public GitHub repository, such as `atelier-drawing-academy-site`.
-2. Upload the site files from this ZIP to the repository root.
-3. In repository Settings > Pages, choose Deploy from a branch, `main`, root `/`.
-4. The site will appear at `https://<your-github-username>.github.io/atelier-drawing-academy-site/` once deployment completes.
-5. Verify the four live pages and use their exact URLs in the plugin public submission listing.
+## Visual direction
+- Pastel palette
+- Illustration-like collage aesthetic
+- Parallax motion
+- Floating paper / scrap composition
+- Organic, artistic layout instead of stacked boxes
 
-## Important: not publication-ready yet
-- The privacy and terms pages deliberately contain clearly marked unapproved drafts.
-- Confirm publisher data practices, support details, and legal terms before making these pages public or using them in a plugin submission.
-- The homepage links to the private Atelier plugin; replace it with the publicly approved plugin URL when available.
-- No third-party analytics is included in this draft; Google Fonts is externally loaded and should be considered in the privacy review.
+## Files
+- index.html
+- style.css
+- script.js
+- support.html
+- privacy.html
+- terms.html
+
+Upload all files from this folder to the root of the GitHub repository and replace the existing versions.
